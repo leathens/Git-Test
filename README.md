@@ -1,0 +1,1 @@
+I am adding a few sentences. I plan to use this repo to practice using git. <3
